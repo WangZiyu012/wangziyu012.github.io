@@ -1,6 +1,6 @@
 # Welcome!
 
-Hi I'm Ziyu Wang, currently a master student @University of Tokyo. 
+Hi I'm Ziyu Wang (王 梓瑜), currently a master student @University of Tokyo. 
 
 My current main research interest is Mamba, primarily focusing on improving its capabilities in generative AI and sequence prediction.
 

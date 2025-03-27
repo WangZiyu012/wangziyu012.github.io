@@ -45,17 +45,7 @@ Experiments show its effectiveness in both standard and transfer learning scenar
 
 ---
 
-## [**Github Link2**](https://github.com/WangZiyu012/STUM)  
-### **Project2: Mitigating RNN State Explosion for Long-Context Modeling**  
-**Key Words:** Long-context; Foundational LLM Model.  
-
-We identify state explosion in Mamba-2 RNNs for extended contexts, linking it to overparametrized states and overfitting.  
-Empirical studies reveal linear thresholds for training length and exponential scaling of feasible context length.  
-Our model shows near-perfect retrieval at very short tokens, demonstrating RNNs’ long-context potential.  
-
----
-
-## [**Github Link3**](https://github.com/WangZiyu012/KAD)  
+## [**Github Link2**](https://github.com/WangZiyu012/KAD)  
 ### **Project3: Unified Kolmogorov–Arnold and State-Space Framework for Robust Time Series Anomaly Detection**  
 **Key Words:** Mamba, KAN, Anomaly Detection.  
 
@@ -65,7 +55,7 @@ Experiments show its superior anomaly detection across diverse multivariate data
 
 # Computer Vision Projects
 
-## [**Github Link4**](https://github.com/WangZiyu012/V2M)  
+## [**Github Link3**](https://github.com/WangZiyu012/V2M)  
 ### **Project4: 2D State-Space Mamba for Efficient Image Representation**  
 **Key Words:** Mamba, Representation Learning.  
 
@@ -75,7 +65,7 @@ Experiments on ImageNet and downstream tasks validate V2M’s superior performan
 
 ---
 
-## [**Github Link5**](https://github.com/WangZiyu012/SSMamba)  
+## [**Github Link4**](https://github.com/WangZiyu012/SSMamba)  
 ### **Project5: Spectral-Spatial Mamba: Isometry-Invariant Graph Laplacian Traversal for Robust Point Cloud Analysis**  
 **Key Words:** Mamba, Masked Autoencoders, 3D Point Clouds.  
 
@@ -84,7 +74,7 @@ Using a recursive partitioning strategy for segmentation and refined token resto
 
 ---
 
-## [**Github Link6**](https://github.com/WangZiyu012/LLRM)  
+## [**Github Link5**](https://github.com/WangZiyu012/LLRM)  
 ### **Project6: Efficient Large-Scale 3D Reconstruction with Gaussian Splats from Long Image Sequences**  
 **Key Words:** 3D Reconstruction.  
 
@@ -96,7 +86,7 @@ On large-scale benchmarks, it achieves near optimization-based results while bei
 
 # Graph Machine Learning Projects
 
-## [**Github Link7**](https://github.com/WangZiyu012/CSSGT)  
+## [**Github Link6**](https://github.com/WangZiyu012/CSSGT)  
 ### **Project7: Enhancing Graph Transformers with SNNs and Mutual Information**  
 **Key Words:** Graph Neural Networks, Spiking Neural Networks, Transformers, Mutual Information  
 
@@ -107,7 +97,7 @@ Under a contrastive learning framework, it converges within two epochs and surpa
 
 ---
 
-## [**Github Link8**](https://github.com/WangZiyu012/ACR)  
+## [**Github Link7**](https://github.com/WangZiyu012/ACR)  
 ### **Project8: ACR: A General Framework for Graph-Level Learning**  
 **Key Words:** Graph Neural Networks, Representation Learning.  
 
@@ -116,7 +106,7 @@ It can also operate as a standalone framework without relying on GNNs. This flex
 
 ---
 
-## [**Github Link9**](https://github.com/WangZiyu012/DyMamba)  
+## [**Github Link8**](https://github.com/WangZiyu012/DyMamba)  
 ### **Project9: DyMamba: A State-Space Approach for Efficient Long-Term Modeling in Continuous-Time Dynamic Graphs**  
 **Key Words:** Dynamic Graph, Mamba.  
 

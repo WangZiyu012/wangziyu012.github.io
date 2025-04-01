@@ -93,8 +93,6 @@ On large-scale benchmarks, it achieves near optimization-based results while bei
 We develop a model that merges Transformers’ power with Spiking Neural Network efficiency through MIGS for graph splitting and SDGA for spike-driven attention.  
 Under a contrastive learning framework, it converges within two epochs and surpasses state-of-the-art models, maintaining low computational overhead across various datasets.  
 
-**Remark:** Accepted by the ACM WWW conference (Ranked 1st in the field of Databases & Information Systems by [**Google Scholar**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_databasesinformationsystems)). To appear after May 2025.  
-
 ---
 
 ## [**Github Link7**](https://github.com/WangZiyu012/ACR)  

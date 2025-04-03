@@ -79,7 +79,7 @@ Using a recursive partitioning strategy for segmentation and refined token resto
 **Key Words:** 3D Reconstruction.  
 
 Our model generalizes 3D Gaussian splat reconstruction from extensive image sequences.  
-Combining Mamba2 and classic Transformer blocks, it processes 32 high-resolution views in only 1.3 seconds.  
+Combining S4 and classic Transformer blocks, it processes 32 high-resolution views in only 2 seconds.  
 Token merging and Gaussian pruning ensure quality and efficiency.  
 On large-scale benchmarks, it achieves near optimization-based results while being two orders of magnitude faster.  
 

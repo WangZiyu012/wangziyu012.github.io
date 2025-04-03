@@ -46,7 +46,7 @@ Experiments show its effectiveness in both standard and transfer learning scenar
 ---
 
 ## [**Github Link2**](https://github.com/WangZiyu012/KAD)  
-### **Project3: Unified Kolmogorov–Arnold and State-Space Framework for Robust Time Series Anomaly Detection**  
+### **Project3: Kolmogorov Arnold Network and S4 for Time Series Anomaly Detection**  
 **Key Words:** Mamba, KAN, Anomaly Detection.  
 
 We use Kolmogorov–Arnold enforcement for rapid physical consistency checks, attention for global insights, and MAMBA for local variation detection and distribution shift handling.  

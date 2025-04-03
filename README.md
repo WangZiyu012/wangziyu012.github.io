@@ -36,8 +36,8 @@ Working with [**Prof. Watanabe Masataka**](https://x.com/watanabemasata?) on enh
 # LLM/Generative AI Projects
 
 ## [**Github Link1**](https://github.com/WangZiyu012/ORMamba)  
-### **Project1: Order-Robust Mamba for Time Series Forecasting**  
-**Key Words:** Mamba; Time Series Prediction; Foundational LLM model.  
+### **Project1: Order-Robust S4 model for Time Series prediction**  
+**Key Words:** S4; Time Series Prediction; Foundational LLM model.  
 
 We present ORMamba, an approach that eliminates channel-order bias in Mamba-based time series forecasting.  
 By reversing channel orders, removing 1D convolutions, and introducing channel correlation modeling, it enhances channel-dependency learning.  
@@ -47,7 +47,7 @@ Experiments show its effectiveness in both standard and transfer learning scenar
 
 ## [**Github Link2**](https://github.com/WangZiyu012/KAD)  
 ### **Project2: S4 Model with Kolmogorov Arnold Network for Time Series Anomaly Detection**  
-**Key Words:** Mamba, KAN, Anomaly Detection.  
+**Key Words:** S4, KAN, Anomaly Detection.  
 
 We use Kolmogorov–Arnold enforcement for rapid physical consistency checks, attention for global insights, and MAMBA for local variation detection and distribution shift handling.  
 The model's time-series-specific reconstructor efficiently isolates features, ensuring robust performance.  

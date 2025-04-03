@@ -74,7 +74,7 @@ Using a recursive partitioning strategy for segmentation and refined token resto
 
 ---
 
-## [**Github Link5**]([https://github.com/WangZiyu012/LLRM](https://anonymous.4open.science/r/CSSGT-code-5E5A)  
+## [**Github Link5**](https://anonymous.4open.science/r/CSSGT-code-5E5A)  
 ### **Project6: Efficient Large-Scale 3D Reconstruction with Gaussian Splats from Long Image Sequences**  
 **Key Words:** 3D Reconstruction.  
 

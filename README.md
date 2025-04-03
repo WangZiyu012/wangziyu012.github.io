@@ -36,7 +36,7 @@ Working with [**Prof. Watanabe Masataka**](https://x.com/watanabemasata?) on enh
 # LLM/Generative AI Projects
 
 ## [**Github Link1**](https://github.com/WangZiyu012/ORMamba)  
-### **Project1: Mamba model for Robust Time Series prediction**  
+### **Project1: ORMamba: Mamba model for Robust Time Series prediction**  
 **Key Words:** S4; Time Series Prediction; Foundational LLM model.  
 
 We present ORMamba, an approach that eliminates channel-order bias in Mamba-based time series forecasting.  

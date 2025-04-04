@@ -36,7 +36,7 @@ Working with [**Prof. Watanabe Masataka**](https://x.com/watanabemasata?) on enh
 # LLM/Generative AI Projects
 
 ## [**Github Link1**](https://github.com/WangZiyu012/ORMamba)  
-### **Project1: ORMamba: Mamba model for Robust Time Series prediction (Master's Thesis)**  
+### **Project1: ORMamba: Mamba model for Robust Time Series prediction**  
 
 **Key Words:** S4; Time Series Prediction; Foundational LLM model.  
 
@@ -51,7 +51,7 @@ Experiments show its effectiveness in both standard and transfer learning scenar
 ---
 
 ## [**Github Link2**](https://github.com/WangZiyu012/KAD)  
-### **Project2: S4 Model with Kolmogorov Arnold Network for Time Series Anomaly Detection (Master's Thesis)**  
+### **Project2: S4 Model with Kolmogorov Arnold Network for Time Series Anomaly Detection**  
 
 **Key Words:** S4, KAN, Anomaly Detection.  
 
@@ -66,7 +66,7 @@ Experiments show its superior anomaly detection across diverse multivariate data
 # Computer Vision Projects
 
 ## [**Github Link3**](https://github.com/WangZiyu012/V2M)  
-### **Project3: 2D State-Space Mamba for Efficient Image Representation (Bachelor's Thesis)**  
+### **Project3: 2D State-Space Mamba for Efficient Image Representation**  
 
 **Key Words:** Mamba, Representation Learning.  
 
@@ -81,7 +81,7 @@ Experiments on ImageNet and downstream tasks validate V2M’s superior performan
 ---
 
 ## [**Github Link4**](https://github.com/WangZiyu012/SSMamba)  
-### **Project4: VPP (Academic training project)**  
+### **Project4: VPP: Efficient Conditional 3D Generation via Voxel-Point Progressive Representation**  
 
 **Key Words:** Mamba, Masked Autoencoders, 3D Point Clouds.  
 
@@ -95,7 +95,7 @@ Using a recursive partitioning strategy for segmentation and refined token resto
 ---
 
 ## [**Github Link5**](https://github.com/WangZiyu012/SSMamba)  
-### **Project5: Efficient Large-Scale 3D Reconstruction with Gaussian Splats from Long Image Sequences (Doing)**  
+### **Project5: Efficient Large-Scale 3D Reconstruction with Gaussian Splats from Long Image Sequences**  
 
 **Key Words:** 3D Reconstruction.  
 
@@ -111,7 +111,7 @@ On large-scale benchmarks, it achieves near optimization-based results while bei
 # Graph Machine Learning Projects
 
 ## [**Github Link6**](https://github.com/WangZiyu012/CSSGT)  
-### **Project6: Enhancing Graph Transformers with SNNs and Mutual Information (Master's Thesis)**  
+### **Project6: Enhancing Graph Transformers with SNNs and Mutual Information**  
 
 **Key Words:** Graph Neural Networks, Spiking Neural Networks, Transformers, Mutual Information  
 
@@ -125,7 +125,7 @@ Under a contrastive learning framework, it converges within two epochs and surpa
 ---
 
 ## [**Github Link7**](https://github.com/WangZiyu012/ACR)  
-### **Project7: ACR: A General Framework for Graph-Level Learning (Submitted to ECML-PKDD, under review)**
+### **Project7: ACR: A General Framework for Graph-Level Learning**
 
 **Key Words:** Graph Neural Networks, Representation Learning.  
 
@@ -139,7 +139,7 @@ It can also operate as a standalone framework without relying on GNNs. This flex
 ---
 
 ## [**Github Link8**](https://github.com/WangZiyu012/DyMamba)  
-### **Project8: DyMamba: A State-Space Approach for Efficient Long-Term Modeling in Continuous-Time Dynamic Graphs (doing)**  
+### **Project8: DyMamba: A State-Space Approach for Efficient Long-Term Modeling in Continuous-Time Dynamic Graphs**  
 
 **Key Words:** Dynamic Graph, Mamba.  
 

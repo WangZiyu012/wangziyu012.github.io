@@ -41,6 +41,7 @@ Working with [**Prof. Watanabe Masataka**](https://x.com/watanabemasata?) on enh
 **Key Words:** S4; Time Series Prediction; Foundational LLM model.  
 
 **Status: Master's Thesis**
+
 **Contribution: ALL**
 
 We present ORMamba, an approach that eliminates channel-order bias in Mamba-based time series forecasting.  

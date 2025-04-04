@@ -115,7 +115,7 @@ On large-scale benchmarks, it achieves near optimization-based results while bei
 
 **Key Words:** Graph Neural Networks, Spiking Neural Networks, Transformers, Mutual Information  
 
-**Status: Master's Thesis, admitted by ACM WWW Conf**
+**Status: Master's Thesis, admitted by ACM WWW Conference**
 
 **Contribution: ALL**
 

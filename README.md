@@ -85,7 +85,7 @@ Experiments on ImageNet and downstream tasks validate V2M’s superior performan
 
 **Key Words:** Mamba, Masked Autoencoders, 3D Point Clouds.  
 
-**Status: Academic Training Project**
+**Status: Bachelor's Academic Training Project**
 
 **Contribution: Part**
 

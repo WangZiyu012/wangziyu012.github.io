@@ -2,7 +2,7 @@
 
 Hi I'm Ziyu Wang (王 梓瑜), currently a master student @University of Tokyo, School of Engineering. 
 
-My current main research interest is foundation models in LLM, primarily focusing on improving the capabilities of Mamba in generative AI and sequence prediction.
+My current main research interest is foundation models in LLM, primarily focusing on improving the capabilities of Mamba in graph machine learning and sequence prediction.
 
 # Education
 

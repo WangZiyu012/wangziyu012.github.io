@@ -36,7 +36,7 @@ Working with [**Prof. Watanabe Masataka**](https://x.com/watanabemasata?) on enh
 # LLM/Generative AI Projects
 
 ## [**Github Link1**](https://github.com/WangZiyu012/ORMamba)  
-### **Project1: ORMamba: Mamba model for Robust Time Series prediction**  
+### **Project1: ORMamba: Mamba model for Robust Time Series prediction (Master's Thesis)**  
 **Key Words:** S4; Time Series Prediction; Foundational LLM model.  
 
 We present ORMamba, an approach that eliminates channel-order bias in Mamba-based time series forecasting.  
@@ -46,7 +46,7 @@ Experiments show its effectiveness in both standard and transfer learning scenar
 ---
 
 ## [**Github Link2**](https://github.com/WangZiyu012/KAD)  
-### **Project2: S4 Model with Kolmogorov Arnold Network for Time Series Anomaly Detection**  
+### **Project2: S4 Model with Kolmogorov Arnold Network for Time Series Anomaly Detection (Master's Thesis)**  
 **Key Words:** S4, KAN, Anomaly Detection.  
 
 We use Kolmogorov–Arnold enforcement for rapid physical consistency checks, attention for global insights, and MAMBA for local variation detection and distribution shift handling.  
@@ -56,7 +56,7 @@ Experiments show its superior anomaly detection across diverse multivariate data
 # Computer Vision Projects
 
 ## [**Github Link3**](https://github.com/WangZiyu012/V2M)  
-### **Project3: 2D State-Space Mamba for Efficient Image Representation**  
+### **Project3: 2D State-Space Mamba for Efficient Image Representation (Bachelor's Thesis)**  
 **Key Words:** Mamba, Representation Learning.  
 
 We propose V2M, which extends Mamba’s state-space approach to 2D and preserves local structures while enabling parallel hardware efficiency.  
@@ -66,7 +66,7 @@ Experiments on ImageNet and downstream tasks validate V2M’s superior performan
 ---
 
 ## [**Github Link4**](https://github.com/WangZiyu012/SSMamba)  
-### **Project4: Spectral-Spatial Mamba: Isometry-Invariant Graph Laplacian Traversal for Robust Point Cloud Analysis**  
+### **Project4: VPP (Academic training project)**  
 **Key Words:** Mamba, Masked Autoencoders, 3D Point Clouds.  
 
 We propose Spectral-Spatial Mamba, which employs a graph Laplacian-based traversal that preserves isometric invariance for point cloud data.  
@@ -75,7 +75,7 @@ Using a recursive partitioning strategy for segmentation and refined token resto
 ---
 
 ## [**Github Link5**](https://github.com/WangZiyu012/SSMamba)  
-### **Project5: Efficient Large-Scale 3D Reconstruction with Gaussian Splats from Long Image Sequences**  
+### **Project5: Efficient Large-Scale 3D Reconstruction with Gaussian Splats from Long Image Sequences (Doing)**  
 **Key Words:** 3D Reconstruction.  
 
 Our model generalizes 3D Gaussian splat reconstruction from extensive image sequences.  
@@ -87,7 +87,7 @@ On large-scale benchmarks, it achieves near optimization-based results while bei
 # Graph Machine Learning Projects
 
 ## [**Github Link6**](https://github.com/WangZiyu012/CSSGT)  
-### **Project6: Enhancing Graph Transformers with SNNs and Mutual Information**  
+### **Project6: Enhancing Graph Transformers with SNNs and Mutual Information (Master's Thesis)**  
 **Key Words:** Graph Neural Networks, Spiking Neural Networks, Transformers, Mutual Information  
 
 We develop a model that merges Transformers’ power with Spiking Neural Network efficiency through MIGS for graph splitting and SDGA for spike-driven attention.  
@@ -96,7 +96,7 @@ Under a contrastive learning framework, it converges within two epochs and surpa
 ---
 
 ## [**Github Link7**](https://github.com/WangZiyu012/ACR)  
-### **Project7: ACR: A General Framework for Graph-Level Learning**  
+### **Project7: ACR: A General Framework for Graph-Level Learning (Submitted to ECML-PKDD, under review)**
 **Key Words:** Graph Neural Networks, Representation Learning.  
 
 We propose an attention-based adaptive centrality readout function that extends beyond node-degree information and outperforms existing readout methods.  
@@ -105,7 +105,7 @@ It can also operate as a standalone framework without relying on GNNs. This flex
 ---
 
 ## [**Github Link8**](https://github.com/WangZiyu012/DyMamba)  
-### **Project8: DyMamba: A State-Space Approach for Efficient Long-Term Modeling in Continuous-Time Dynamic Graphs**  
+### **Project8: DyMamba: A State-Space Approach for Efficient Long-Term Modeling in Continuous-Time Dynamic Graphs (doing)**  
 **Key Words:** Dynamic Graph, Mamba.  
 
 We propose DyMamba, which encodes extended node interactions and temporal patterns via a two-stage state-space model.  

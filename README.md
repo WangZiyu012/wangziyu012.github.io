@@ -66,16 +66,16 @@ Experiments show its superior anomaly detection across diverse multivariate data
 # Computer Vision Projects
 
 ## [**Github Link3**](https://github.com/WangZiyu012/V2M)  
-### **Project3: 2D State-Space Mamba for Efficient Image Representation**  
+### **Project3: 2D State-Space for Efficient Image Representation**  
 
-**Key Words:** Mamba, Representation Learning.  
+**Key Words:** State Space, Representation Learning.  
 
 **Status: Bachelor's Thesis**
 
 **Contribution: ALL**
 
-We propose V2M, which extends Mamba’s state-space approach to 2D and preserves local structures while enabling parallel hardware efficiency.  
-By processing tokens across both dimensions, it captures spatial locality while maintaining Mamba’s scalability.  
+We propose V2M, which extends state-space approach to 2D and preserves local structures while enabling parallel hardware efficiency.  
+By processing tokens across both dimensions, it captures spatial locality while maintaining scalability.  
 Experiments on ImageNet and downstream tasks validate V2M’s superior performance over existing visual backbones.  
 
 ---

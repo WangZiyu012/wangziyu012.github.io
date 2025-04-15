@@ -42,7 +42,7 @@ Working with [**Prof. Watanabe Masataka**](https://x.com/watanabemasata?) on enh
 
 **Status: Master's Thesis**
 
-**Contribution: ALL**
+**Contribution: Part**
 
 We present ORMamba, an approach that eliminates channel-order bias in Mamba-based time series forecasting.  
 By reversing channel orders, removing 1D convolutions, and introducing channel correlation modeling, it enhances channel-dependency learning.  
